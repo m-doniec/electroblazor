@@ -1,5 +1,5 @@
 # electroblazor
-blazor with electron.net with auto-attach in vscode
+## Blazor app with Electron.NET with auto-attach for debugging in VSCode
 Before running for the first time make sure to do the following:
 1. install nodejs
 2. install Electron.NET CLI
