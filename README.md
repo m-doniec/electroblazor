@@ -6,7 +6,3 @@ Before running for the first time make sure to do the following:
 ```console
 foo@bar:~$ dotnet tool install ElectronNET.CLI -g
 ```
-3. initialize electron
-```console
-foo@bar:~$ electronize init
-```
